@@ -2,19 +2,21 @@
 
 ### Bem vindo ao meu perfil
 
-- 🔭 Front-End
-- 🌱 Estundando Java 
+- 🔭 Full-Stack
+- 🌱 Estundando C 
 - 😄 Pronomes: Ela/Dela
 - 💙 Ex-aluna do instituto Proa
+- 💻 Estudante de Ciencia da computação
 -------------------------------------
  ### Hello! I´m Karina Nunes
  
  ### Welcome to my profile
  
- - 🔭 Front-End
- - 🌱 Studying Java
+ - 🔭 Full-Stack
+ - 🌱 Studying C
  - 😄 Pronouns: She/Her
  - 💙 Ex-student of Proa Institute
+ - 💻 Computer science student
 
 
  <div aling=centro>
