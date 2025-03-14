@@ -3,9 +3,8 @@
 ### Bem vindo ao meu perfil
 
 - 🔭 Full-Stack
-- 🌱 Estundando C 
 - 😄 Pronomes: Ela/Dela
-- 💙 Ex-aluna do instituto Proa
+- ❤️ Universidade Presbiteriana Mackenzie
 - 💻 Estudante de Ciencia da computação
 -------------------------------------
  ### Hello! I´m Karina Nunes
@@ -13,9 +12,8 @@
  ### Welcome to my profile
  
  - 🔭 Full-Stack
- - 🌱 Studying C
  - 😄 Pronouns: She/Her
- - 💙 Ex-student of Proa Institute
+ - ❤️ Mackenzie Presbyterian University
  - 💻 Computer science student
 
 
