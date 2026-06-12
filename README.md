@@ -45,7 +45,7 @@
 ### 📌 Projetos em Destaque | Featured Projects
 
 <!-- Dica: Substitua os links abaixo pelos repositórios reais do seu GitHub -->
-- 🌐 **[Simplify](https://github.com/KarinaNds/)**: Plataforma web desenvolvida em grupo durante o Instituto Proa, focada em ajudar comerciantes locais a venderem online com facilidade.
+- 🌐 **[Simplify](https://simplify-six.vercel.app)**: Plataforma web desenvolvida em grupo durante o Instituto Proa, focada em ajudar comerciantes locais a venderem online com facilidade.
 - ⚙️ **[Automações & Scripts](https://github.com/KarinaNds/)**: Repositório focado em soluções de otimização de processos, integração de dados e automação.
 
 ---
